@@ -1,3 +1,7 @@
+kblackbox (4:4.11.3-3) UNRELEASED; urgency=medium
+
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 25 Oct 2014 17:08:44 -0300
+
 kblackbox (4:4.11.3-2) unstable; urgency=medium
 
   * Do not disable an empty test set.
