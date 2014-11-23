@@ -23,7 +23,7 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-applications/kblackbox.git
 Package: kblackbox
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Recommends: khelpcenter4
+Recommends: khelpcenter
 Description: Black Box puzzle game
  KBlackBox is a game of hide and seek played on an grid of boxes, where the
  player shoots rays into the grid to deduce the positions of hidden objects.
