@@ -1,13 +1,14 @@
-kblackbox (4:14.11.95-0ubuntu1) UNRELEASED; urgency=medium
+kblackbox (4:14.11.97-0ubuntu1~ubuntu15.04~ppa1) vivid; urgency=medium
 
-  * New upstream beta release.
+  * New upstream release candidate.
   * Fix watch urls for new release location.
   * Update Vcs urls for the new repository location.
   * Bump Standards-Version to 3.9.6, no changes needed.
   * Update the maintainer.
   * Recommend khelpcenter instead of khelpcenter4.
+  * PPA build
 
- -- Philip Muškovac <yofel@kubuntu.org>  Sat, 22 Nov 2014 22:55:44 +0100
+ -- Philip Muškovac <yofel@kubuntu.org>  Fri, 28 Nov 2014 21:09:12 +0100
 
 kblackbox (4:4.11.3-3) UNRELEASED; urgency=medium
 
