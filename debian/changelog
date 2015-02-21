@@ -1,3 +1,13 @@
+kblackbox (4:14.12.2-1~) UNRELEASED; urgency=medium
+
+  [ Lisandro Damián Nicanor Pérez Meyer ]
+  * Remove myself from Uploaders.
+
+  [ Maximiliano Curia ]
+  * New upstream release (14.12.2).
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 21 Feb 2015 16:40:57 +0100
+
 kblackbox (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
@@ -22,13 +32,6 @@ kblackbox (4:14.11.97-0ubuntu1) vivid; urgency=medium
   * PPA build
 
  -- Philip Muškovac <yofel@kubuntu.org>  Fri, 28 Nov 2014 21:09:12 +0100
-
-kblackbox (4:4.11.3-3) UNRELEASED; urgency=medium
-
-  [ Lisandro Damián Nicanor Pérez Meyer ]
-  * Remove myself from Uploaders.
-
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 25 Oct 2014 17:08:44 -0300
 
 kblackbox (4:4.11.3-2) unstable; urgency=medium
 
@@ -68,4 +71,3 @@ kblackbox (4:4.10.2-1) experimental; urgency=low
   * First release of kdegames after being split by upstream.
 
  -- Maximiliano Curia <maxy@debian.org>  Mon, 08 Apr 2013 13:50:03 +0200
-
