@@ -1,7 +1,4 @@
 ../icons/kblackbox-16.xpm /usr/share/pixmaps
 ../icons/kblackbox.xpm /usr/share/pixmaps
 usr/games/kblackbox
-usr/share/applications/kde4/kblackbox.desktop
-usr/share/doc/kde/HTML/*/kblackbox/
-usr/share/icons/*/*/apps/kblackbox.*
-usr/share/kde4/apps/kblackbox/
+usr/share/*
