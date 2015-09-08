@@ -23,7 +23,8 @@ Build-Depends: cmake (>= 2.8.12~),
                libkf5kdegames-dev (>= 4.9.0~),
                libkf5xmlgui-dev,
                libqt5svg5-dev (>= 5.4),
-               pkg-kde-tools (>= 0.14),
+               libkf5kdelibs4support-dev,
+               pkg-kde-tools (>> 0.15.15),
                qtbase5-dev (>= 5.4)
 Standards-Version: 3.9.6
 Homepage: http://games.kde.org/
