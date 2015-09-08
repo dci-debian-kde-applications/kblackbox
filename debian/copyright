@@ -5,12 +5,15 @@ Upstream-Contact: Albert Astals Cid <aacid@kde.org>
 Source: http://www.kde.org/download/
 
 Files: *
-Copyright: 2006,2007, Nicolas Roffet <nicolas-kde@roffet.com>
-           1999-2000, Robert Cimrman <cimrman3@students.zcu.cz>
+Copyright: 1989-1991, Free Software Foundation, Inc
+           2007, Nicolas Roffet
+           2006-2007, Nicolas Roffet <nicolas-kde@roffet.com>
+           1999-2000, Robert Cimrman
 License: GPL-2+
 
 Files: doc/*
 Copyright: 1999-2000, Robert Cimrman <cimrman3@students.zcu.cz>
+           2007, Nicolas Roffet
 License: GFDL-1.2+
 
 Files: debian/*
