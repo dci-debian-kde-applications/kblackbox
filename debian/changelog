@@ -1,3 +1,11 @@
+kblackbox (4:16.04.0-3~1.gbpd030dc) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @d030dc84558579f567a2539a590f45367f65938d **
+
+  * Update changelog for 4:16.04.0-2 release
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Thu, 23 Jun 2016 10:52:12 +0200
+
 kblackbox (4:16.04.0-2) unstable; urgency=medium
 
   [ Pino Toscano ]
