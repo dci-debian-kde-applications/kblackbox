@@ -1,14 +1,23 @@
-kblackbox (4:16.04.1-0neon) xenial; urgency=medium
+kblackbox (4:16.04.0-2) unstable; urgency=medium
 
-  * New release
+  [ Pino Toscano ]
+  * Remove unused kde-sc-dev-latest and kdelibs5-dev build dependencies.
 
- -- Neon CI <neon@kde.org>  Wed, 18 May 2016 18:12:42 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 23 Jun 2016 10:24:08 +0200
 
-kblackbox (4:15.12.2-1~) UNRELEASED; urgency=medium
+kblackbox (4:16.04.0-1) unstable; urgency=medium
 
+  [ Automatic packaging ]
+  * Bump Standards-Version to 3.9.8
+  * Update build-deps and deps with the info from cmake
+
+  [ Maximiliano Curia ]
+  * Remove menu file and friends
   * New upstream release (15.12.2).
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
 
- -- Maximiliano Curia <maxy@debian.org>  Sat, 13 Feb 2016 10:12:19 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 28 May 2016 19:12:12 +0200
 
 kblackbox (4:15.12.1-1) experimental; urgency=medium
 
@@ -50,14 +59,6 @@ kblackbox (4:15.07.90-0ubuntu1) wily; urgency=medium
   * new upstream beta release
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 18 Aug 2015 09:34:47 +0100
-
-kblackbox (4:15.04.3-1~) UNRELEASED; urgency=medium
-
-  * New upstream release (15.04.0).
-  * New upstream release (15.04.1).
-  * New upstream release (15.04.3).
-
- -- Maximiliano Curia <maxy@debian.org>  Fri, 03 Jul 2015 16:51:04 +0200
 
 kblackbox (4:15.04.2-0ubuntu1) wily; urgency=medium
 
