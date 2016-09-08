@@ -1,11 +1,17 @@
-kblackbox (4:16.08.0-1~1.gbpdbcc3d) UNRELEASED; urgency=medium
+kblackbox (4:16.08.1-1~1.gbpc3fbbb) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @c3fbbb765fceeb2208db876d3cca1239f403634f **
+
+  [ Maximiliano Curia ]
   ** SNAPSHOT build @dbcc3d02fff1dc1e93004fae9367ea0e33030ab4 **
 
   * Update changelog for 4:16.04.0-2 release
   * UNRELEASED
 
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 18 Aug 2016 22:52:14 +0200
+  [ Automatic packaging ]
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Thu, 08 Sep 2016 22:52:33 +0200
 
 kblackbox (4:16.04.0-2) unstable; urgency=medium
 
