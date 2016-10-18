@@ -1,18 +1,12 @@
-kblackbox (4:16.08.2-1~1.gbp3f9628) UNRELEASED; urgency=medium
-
-  ** SNAPSHOT build @3f9628c8a3524dacf604b6cea2772d9fbfa49936 **
+kblackbox (4:16.08.2-1) unstable; urgency=medium
 
   [ Maximiliano Curia ]
-  ** SNAPSHOT build @dbcc3d02fff1dc1e93004fae9367ea0e33030ab4 **
-
-  * Update changelog for 4:16.04.0-2 release
-  * UNRELEASED
+  * New upstream release (16.08.2)
 
   [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
-  * UNRELEASED
 
- -- Automatic packaging <jenkins@gnuservers.com.ar>  Thu, 13 Oct 2016 22:52:30 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 19 Oct 2016 00:06:22 +0200
 
 kblackbox (4:16.04.0-2) unstable; urgency=medium
 
